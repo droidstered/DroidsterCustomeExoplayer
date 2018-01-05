@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DroidsterCustomeExoplayer</string>
+
+    <string name="selection_disabled">Disabled</string>
+    <string name="selection_default">Default</string>
+    <string name="selection_default_none">Default (none)</string>
+    <string name="enable_random_adaptation">Enable random adaptation</string>
+    <string name="video_time" formatted="false">"%.4d:%.4d"</string>
+
+</resources>
