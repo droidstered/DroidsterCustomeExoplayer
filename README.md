@@ -10,3 +10,5 @@ You can also enter in to full screen and exit from full screen manually too with
 
 I have attached some of screenshots here.
 
+!(https://github.com/droidstered/DroidsterCustomeExoplayer/blob/master/Screenshot_2018-01-05-11-03-09.png "Bit rate quality")
+
